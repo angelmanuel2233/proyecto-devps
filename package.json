@@ -1,0 +1,25 @@
+{
+  "name": "proyecto-devps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelmanuel2233/proyecto-devps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelmanuel2233/proyecto-devps/issues"
+  },
+  "homepage": "https://github.com/angelmanuel2233/proyecto-devps#readme",
+  "devDependencies": {
+    "@types/node": "^24.5.1",
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4"
+  }
+}
